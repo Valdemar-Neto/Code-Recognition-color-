@@ -4,8 +4,8 @@
 
 ## O primeiro é o código de reconhecimento de cores usando opencv para uma projeto de pesquisa no laboratorio da manufatura da Universidade Federal do Rio Grande do Norte - UFRN.
 
-![Imagem do reconhecimento de cor](C:Users/sol/Documents/reconhecimento.png"blue")
+![Imagem do reconhecimento de cor](C:Users/sol/Documents/reconhecimento.png")
 
 ## O segundo é um calculadora de cores no formato HSV(Hue, Saturation, Value) que foi feita usando as bibliotecas Opencv e Numpy.
 
-![Imagem do reconhecimento de cor](C:Users/sol/Documents/Calculadora de cores hsv.png"hsv")
+![reconhecimento](C:Users/sol/Documents/Calculadora de cores hsv.png")
