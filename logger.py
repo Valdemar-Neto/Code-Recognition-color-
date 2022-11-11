@@ -1,21 +1,23 @@
 import serial
-arquivo = "logger.csv"
+porta = "COM7"
+baud = 9600
+arquivo = "valores.py"
 
-
-arduino = serial.Serial('COM7', 9600)
-arduino.flushInput()
+ardruino = serial.Serial(porta,baud)
+ardruino.flushInput()
 print("Abrindo Serial")
 
+values = []
 amostra = 10
-linha =0
-while linha < amostra:
-
-    data = str(arduino.readline().decode("utf-8"))
-    print(data)
-    file = open(arquivo, "a")
-    print("Criando arquivo csv")
-    file.write(data)
-    linha = linha +1
-print("Final de Leituras")
+linha = 0
+while linha <= amostra:
+    
+    data = str(ardruino.readline().decode("utf-8"))
+    values.append(data[:-2])
+    linha += 1
+print("Final de leituras")
+file = open(arquivo,'a')
+file.write("Valores="+str(values))
+print(values)
 file.close()
-arduino.close()
+ardruino.close()
