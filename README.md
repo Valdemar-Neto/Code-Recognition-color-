@@ -12,7 +12,15 @@
   <img src="https://user-images.githubusercontent.com/108936921/195620702-3f374e0c-058e-4d50-99b7-2c4f440d1f54.png">  
 </div>
 
+## Primeiro gráfico após a implementação do sensor de luminosidade usansdo pythone a biblioteca plotly 
+<div align = "center">
+  <img src="https://user-images.githubusercontent.com/108936921/201439407-ca5fde44-2db6-42a5-9b77-983dee1208f6.png">  
+</div>
+
+
+
 ## Referências
 - (https://numpy.org/doc/)
 - (https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
 - (http://www.decom.ufop.br/guillermo/BCC326/slides/Processamento%20de%20Imagens%20-%20Sistema%20de%20Cores.pdf)
+- (https://plotly.com/python/histograms/)
