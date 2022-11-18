@@ -14,10 +14,14 @@
 
 ## Primeiro gráfico após a implementação do sensor de luminosidade usansdo pythone a biblioteca plotly 
 <div align = "center">
-  <img src="https://user-images.githubusercontent.com/108936921/201439407-ca5fde44-2db6-42a5-9b77-983dee1208f6.png">  
+  <img src="https://user-images.githubusercontent.com/108936921/202603718-c3bb65e4-c0b8-4150-a110-d7757f4ef3f4.png">  
 </div>
 
-
+## Esse é o circuito utilizado para a leitura de sinais 
+<div align = "center">
+  <img src="https://user-images.githubusercontent.com/108936921/202604013-308e9f27-4a5e-444b-ab09-09f127d74271.jpeg" width = 500px height= 500px>  
+</div>
+ 
 
 ## Referências
 - (https://numpy.org/doc/)
