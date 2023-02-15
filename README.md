@@ -17,7 +17,7 @@
   <img src="https://user-images.githubusercontent.com/108936921/202603718-c3bb65e4-c0b8-4150-a110-d7757f4ef3f4.png">  
 </div>
 
-## Esse é o circuito utilizado para a leitura de sinais 
+## Esse é o sensor utilizado para a leitura de sinais 
 <div align = "center">
   <img src="https://user-images.githubusercontent.com/108936921/202604013-308e9f27-4a5e-444b-ab09-09f127d74271.jpeg" width = 500px height= 500px>  
 </div>
