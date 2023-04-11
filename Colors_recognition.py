@@ -114,3 +114,6 @@ while True: # A loop to reading frames cam
         break
 cap.release()
 cv2.destroyAllWindows() #Destroys all windows of code
+
+
+##AGORA O SISTEMA RECONHECE CORES EM TRÊS PONTOS DO ESPAÇO
