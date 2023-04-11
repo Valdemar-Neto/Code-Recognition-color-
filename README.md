@@ -21,7 +21,22 @@
 <div align = "center">
   <img src="https://user-images.githubusercontent.com/108936921/202604013-308e9f27-4a5e-444b-ab09-09f127d74271.jpeg" width = 500px height= 500px>  
 </div>
- 
+
+## Atualizações do Projeto FMS 
+
+## Agora o nosso sistema reconhece cores em três pontos do espaço, e o local escolhido para essa parte de evolução do projeto foi a sala da CNC, no Laboratório de Manufatura da Universidade Federal do Rio Grande do Norte . O próximo objetivo é reconhecer além das cores do objeto, também reconhecer a forma do objeto, tendo como alguns parâmetros a forma, a luz no ambiente e posição da camêra.
+
+<div align = "center">
+  <img src="https://user-images.githubusercontent.com/108936921/231309645-db66dfcd-0aec-4d5b-9042-40a420267f93.png">  
+</div>
+
+## Nova aquisição de dados utilizando o sensor LDR para obter parâmetros para a continuação da pesquisa. Importante mencionar que os dados estão em LUX
+- Link para o datasheet do sensor(https://www.makerhero.com/img/files/download/GL5528-Datasheet.pdf)
+<div align = "center">
+
+  <img src="https://user-images.githubusercontent.com/108936921/231309027-bee00520-5b3b-40be-ad80-3e62058f2d89.png">  
+</div>
+
 
 ## Referências
 - (https://numpy.org/doc/)
