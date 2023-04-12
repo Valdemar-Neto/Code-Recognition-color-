@@ -83,6 +83,7 @@ pip install matplotlib.pyplot
 - (http://www.decom.ufop.br/guillermo/BCC326/slides/Processamento%20de%20Imagens%20-%20Sistema%20de%20Cores.pdf)
 - (http://www.natalnet.br/wre2012/pdf/106465.pdf)
 - (https://www.researchgate.net/profile/Jose-Mendes-Junior-2/publication/287958715_LDR_E_SENSORES_DE_LUZ_AMBIENTE_FUNCIONAMENTO_E_APLICACOES/links/567a9c7508ae19758380fa45/LDR-E-SENSORES-DE-LUZ-AMBIENTE-FUNCIONAMENTO-E-APLICACOES.pdf)
+-(http://www.inf.ufsc.br/~aldo.vw/visao/2000/Cores/index.html#4.1.%20Limiariza%C3%A7%C3%A3o%20por%20Histogramas)
 
  # Autor
  
