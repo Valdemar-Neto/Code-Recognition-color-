@@ -1,5 +1,13 @@
+<h1 align="center">
+  <p align="center">LABMAN - PROJETO FMS</p>
+  
+  <a href="https://labman.ct.ufrn.br/"><img src="https://user-images.githubusercontent.com/108936921/231312659-13c3d624-e05e-444d-8b57-4e44c63a94b4.png" alt="Docusaurus" width = 50% ></a>
+</h1>
+
+
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
+![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 
 # Reconhecimento de cor usando a biblioteca OpenCv em Python e usando a biblioteca Numpy para a modelagem de cores 
 
@@ -76,3 +84,7 @@ pip install matplotlib.pyplot
 - (http://www.natalnet.br/wre2012/pdf/106465.pdf)
 - (https://www.researchgate.net/profile/Jose-Mendes-Junior-2/publication/287958715_LDR_E_SENSORES_DE_LUZ_AMBIENTE_FUNCIONAMENTO_E_APLICACOES/links/567a9c7508ae19758380fa45/LDR-E-SENSORES-DE-LUZ-AMBIENTE-FUNCIONAMENTO-E-APLICACOES.pdf)
 
+ # Autor
+ 
+| [<img src="https://user-images.githubusercontent.com/108936921/231314406-7d757d0e-c097-416c-bb28-6d830ea41d2f.png" width=115><br><sub>Valdemar Gonçalves Pereira Neto</sub>](https://github.com/Valdemar-Neto)<br>💻✝️|  
+| :---: | 
