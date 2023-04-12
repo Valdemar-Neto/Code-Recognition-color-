@@ -21,11 +21,17 @@ pip install python
 
 ```bash
 pip install matplotlib
+```
 
-pip install cv2 
+```bash
+pip install cv2
+```  
 
+```bash
 pip install numpy
+```
 
+```bash
 pip install matplotlib.pyplot
 ```
 ## Nesse repositório existe dois código muito importante. 
