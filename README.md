@@ -70,7 +70,7 @@ pip install matplotlib.pyplot
 - [Link para o datasheet do sensor](https://www.makerhero.com/img/files/download/GL5528-Datasheet.pdf)
 <div align = "center">
 
-  <img src="https://user-images.githubusercontent.com/108936921/231309027-bee00520-5b3b-40be-ad80-3e62058f2d89.png">  
+  <img src="https://user-images.githubusercontent.com/108936921/231461834-0f9cb039-00b1-418c-8211-f7a04ee2899c.png">  
 </div>
 
 ## ✔️ Técnicas e tecnologias utilizadas
