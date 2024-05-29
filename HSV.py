@@ -3,7 +3,7 @@
 # A quantidade de cor em cada pixel
 # O brilho
 
-# Para a nossa aplicação irei utilizar a bilioteca opencv para python e a biblioteca numpy para a ihteração com o usuário
+# Para a nossa aplicação irei utilizar a bilioteca opencv para python e a biblioteca numpy para a manipulação de array
 
 #importando o open cv e numpy
 import cv2
