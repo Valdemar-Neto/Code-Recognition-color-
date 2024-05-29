@@ -9,7 +9,7 @@
 import cv2
 import numpy as np
 
-# Irá simplesmente para o código, e quando chamada não irá fazer nada
+# Irá simplesmente parar o código e quando chamada não irá fazer nada
 def nothing(x):
     pass
 
